@@ -1,0 +1,27 @@
+-name: bhas
+  dob: 11-09-1998
+    address:
+    city: kurnool
+    country: bharatha dhesam
+    pin: 518380
+    address:
+    - type: perm
+      city: hyd
+      country: india
+    - type: current
+      city: london
+      country: us
+-name: chinnoda
+  dob: 11-09-1998
+    address:
+    city: kurnool
+    country: bharatha dhesam
+    pin: 518380
+    address:
+    - type: perm
+      city: hyd
+      country: india
+    - type: current
+      city: london
+      country: us
+
