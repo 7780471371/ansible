@@ -9,13 +9,13 @@
     - AWS
     - Docker
   - EXPERIENCE:
-    DevOps: 7
-    AWS: 5
-    Docker: 4
+     DevOps: 7
+     AWS: 5
+     Docker: 4
   tasks:
   - name: print number variable
     ansible.builtin.debug:
-      msg: "{{AGE}}"
+     msg: "{{AGE}}"
   - name: print string variable
     ansible.builtin.debug:
      msg: "{{NAME}}"
